@@ -3,7 +3,7 @@
 <html>
 To Run the above project first clone this repository in your environment : 
 
-command : git clone https://github.com/dixit122/Simulator_8086_CPP.git
+command : git clone dishankgarg/Simulator_8086_CPP.git
 
 installation of makefile tools on your environment :
 
