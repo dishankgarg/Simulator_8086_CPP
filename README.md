@@ -1,12 +1,8 @@
 # Simulator_8086_CPP
 
 <html>
-To Run the above project first clone this repository in your environment : 
-
-command : git clone dishankgarg/Simulator_8086_CPP.git
 
 installation of makefile tools on your environment :
-
 
 Linux Installation Guide:
 
